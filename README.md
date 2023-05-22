@@ -138,7 +138,7 @@ While your workspace itself is a clone of [MovingCrimes/BedroomDogs](https://git
 Accordingly, if you want to contribute to modules, you'll need to navigate into the respective subdirectory and work with Git from in there.
 Any Git commands executed in your workspace root will target [MovingCrimes/BedroomDogs](https://github.com/MovingCrimes/BedroomDogs).
 
-For more information, see our wiki entry on [Understanding Terasology's Git Setup](https://github.com/MovingCrimes/BedroomDogs/wiki/Developing-Modules#understanding-bedroomdogsys-git-setup).
+For more information, see our wiki entry on [Understanding Bedroom Dogs's Git Setup](https://github.com/MovingCrimes/BedroomDogs/wiki/Developing-Modules#understanding-bedroomdogsys-git-setup).
 
 
 ### Contributing
