@@ -124,7 +124,7 @@ Development is possible on all common platforms (Windows, Linux, MacOS) as long 
 
 ### Requirements
 
-- Download that repos
+- Download this repos
   <br>Using newer Unity3D versions may cause issues (see [#3976](https://github.com/MovingBlocks/Terasology/issues/3976)).
 - Git to clone the repo and commit changes.
 
