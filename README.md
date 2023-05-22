@@ -32,7 +32,7 @@ The _BedroomDogs_ project was born from a Mafia and Driver mixture tech demo and
 
 ## Community
 
-If you want to get in contact with the **BedroomDogs** community and the whole **MovingBlocks** team, you can easily connect with us, share your ideas, report and solve problems.
+If you want to get in contact with the **BedroomDogs** community and the whole **MovingCrimes** team, you can easily connect with us, share your ideas, report and solve problems.
 We are present in nearly the complete round-up of social networks. Follow/friend us wherever you want, chat with us and tell the world.
 
 &nbsp;
@@ -137,14 +137,14 @@ Non-Technical Requirements:
 To be able to run **BedroomDogs** from source, you'll need to setup your workspace.
 Follow the [Contributor Quick Start Guide](https://github.com/MovingBlocks/Terasology/wiki/Contributor-Quick-Start).
 
-> :warning: _Note, that a Terasology workspace is a **multi-repo workspace**._
+> :warning: _Note, that a BedroomDogs workspace is a **multi-repo workspace**._
 
-While your workspace itself is a clone of [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology), every subdirectory in your workspace directory `./modules/` is a clone of a [Terasology module repo](https://github.com/Terasology).
+While your workspace itself is a clone of [MovingCrimes/BedroomDogs](https://github.com/MovingCrimes/BedroomDogs), every subdirectory in your workspace directory `./modules/` is a clone of a [BedroomDogs module repo](https://github.com/BedroomDogs).
 
 Accordingly, if you want to contribute to modules, you'll need to navigate into the respective subdirectory and work with Git from in there.
-Any Git commands executed in your workspace root will target [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology).
+Any Git commands executed in your workspace root will target [MovingCrimes/BedroomDogs](https://github.com/MovingCrimes/BedroomDogs).
 
-For more information, see our wiki entry on [Understanding Terasology's Git Setup](https://github.com/MovingBlocks/Terasology/wiki/Developing-Modules#understanding-terasologys-git-setup).
+For more information, see our wiki entry on [Understanding Terasology's Git Setup](https://github.com/MovingCrimes/BedroomDogs/wiki/Developing-Modules#understanding-bedroomdogsys-git-setup).
 
 
 ### Contributing
@@ -155,4 +155,4 @@ If you find errors or issues in any of our resources, please report them using G
 
 For developers that have not worked with complex software systems or dealt with the intricacies of Java yet, we recommend to start with [Good First Issues in Module Land](https://github.com/search?l=&q=org%3ATerasology+label%3A%22Good+First+Issue%22+state%3Aopen&state=open&type=Issues).
 
-Developers with previous experience in rendering, physics and other less trivial aspects of game development are welcome to give the [Good First Issues in Engine](https://github.com/MovingBlocks/Terasology/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Good+First+Issue%22) a go.
+Developers with previous experience in rendering, physics and other less trivial aspects of game development are welcome to give the [Good First Issues in Engine](https://github.com/MovingCrimes/BedroomDogs/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Good+First+Issue%22) a go.
