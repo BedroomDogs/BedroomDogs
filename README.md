@@ -102,7 +102,7 @@ We are present in nearly the complete round-up of social networks. Follow/friend
     </tr>
 </table>
 
-\* _Please note, that if you have both integrated (chip) and dedicated (card) graphics, you should make sure that you're actually using your dedicated graphics when running Terasology._
+\* _Please note, that if you have both integrated (chip) and dedicated (card) graphics, you should make sure that you're actually using your dedicated graphics when running BedroomDogs._
 
 Internet connectivity is required for downloading Terasology via the Launcher, afterwards playing offline is possible.
 
