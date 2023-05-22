@@ -27,7 +27,7 @@
     <a href="#license">License</a> 
 </b></h3>
 
-The _Terasology_ project was born from a Minecraft-inspired tech demo and is becoming a stable platform for various types of gameplay settings in a voxel world.
+The _BedroomDogs_ project was born from a Mafia and Driver mixture tech demo and is becoming a stable platform for various types of gameplay settings in a open  world.
 The [creators and maintainers](https://github.com/MovingBlocks/Terasology/blob/develop/docs/Credits.md) are a diverse mix of software developers, designers, game testers, graphic artists, and musicians. We encourage others to join!
 We encourage contributions from anybody and try to keep a warm and friendly community and maintain a [code of conduct](docs/CODE_OF_CONDUCT.md).
 
