@@ -32,7 +32,7 @@ The _BedroomDogs_ project was born from a Mafia and Driver mixture tech demo and
 
 ## Community
 
-If you want to get in contact with the **Terasology** community and the whole **MovingBlocks** team, you can easily connect with us, share your ideas, report and solve problems.
+If you want to get in contact with the **BedroomDogs** community and the whole **MovingBlocks** team, you can easily connect with us, share your ideas, report and solve problems.
 We are present in nearly the complete round-up of social networks. Follow/friend us wherever you want, chat with us and tell the world.
 
 &nbsp;
@@ -124,9 +124,8 @@ Development is possible on all common platforms (Windows, Linux, MacOS) as long 
 
 ### Requirements
 
-Technical Requirements:
-- Java SE Development Kit (JDK) 11. The CI will verify against this baseline version.
-  <br>Using newer Java versions may cause issues (see [#3976](https://github.com/MovingBlocks/Terasology/issues/3976)).
+- Download that repos
+  <br>Using newer Unity3D versions may cause issues (see [#3976](https://github.com/MovingBlocks/Terasology/issues/3976)).
 - Git to clone the repo and commit changes.
 
 Non-Technical Requirements:
@@ -135,9 +134,8 @@ Non-Technical Requirements:
 
 ### Workspace Setup
 
-To be able to run **Terasology** from source, you'll need to setup your workspace.
+To be able to run **BedroomDogs** from source, you'll need to setup your workspace.
 Follow the [Contributor Quick Start Guide](https://github.com/MovingBlocks/Terasology/wiki/Contributor-Quick-Start).
-This guide is designed for [IntelliJ IDEA](http://www.jetbrains.com/idea/) (you can use the free community edition), but alternative setups are possible.
 
 > :warning: _Note, that a Terasology workspace is a **multi-repo workspace**._
 
