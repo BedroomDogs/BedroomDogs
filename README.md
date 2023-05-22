@@ -113,14 +113,12 @@ For more information about playing, like hot keys or server hosting, see the [de
 
 ### Alternative Installation Methods
 
-If you already have a Unity3D Engine installed, you may use a direct download release as an alternative to using the [launcher](https://github.com/MovingBlocks/TerasologyLauncher/releases). Java version 11 is required.
-
-Direct download stable builds are uploaded to [our release section here on GitHub](https://github.com/MovingBlocks/Terasology/releases) while the cutting-edge develop version can be downloaded direct [here from our Jenkins](https://jenkins.terasology.io/teraorg/job/Terasology/job/Omega/job/master/lastSuccessfulBuild/artifact/distros/omega/build/distributions/TerasologyOmega.zip).
+If you already have a Unity3D Engine installed, you may use a direct download release as an alternative to using the [launcher](https://github.com/MovingBlocks/TerasologyLauncher/releases). Unity3D version 2021 is required.
 
 
 ## Development
 
-Development is possible on all common platforms (Windows, Linux, MacOS) as long as the JDK is properly set up.
+Development is possible on all common platforms (Windows, Linux, MacOS) as long as the Unity3D is properly set up.
 
 ### Requirements
 
