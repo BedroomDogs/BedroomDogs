@@ -104,10 +104,6 @@ We are present in nearly the complete round-up of social networks. Follow/friend
 
 \* _Please note, that if you have both integrated (chip) and dedicated (card) graphics, you should make sure that you're actually using your dedicated graphics when running BedroomDogs._
 
-Internet connectivity is required for downloading Terasology via the Launcher, afterwards playing offline is possible.
-
-For easy game setup (recommended) you can use our launcher - [download it here](https://terasology.org/download.html).
-
 For more information about playing, like hot keys or server hosting, see the [dedicated page](docs/Playing.md) or check out the [modules](docs/Modules.md).
 
 
